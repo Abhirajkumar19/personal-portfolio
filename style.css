@@ -314,6 +314,7 @@ nav a:hover{
 }
 .exptech{
     position: relative;
+    padding-left: 25px;
 }
 
 .company, .date{
@@ -325,28 +326,31 @@ nav a:hover{
     color: #a0a0a0;
 }
 .expfirst, .expsecond{
-    margin-left: 25px;
-    margin-bottom: 25px;
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 30px;
 }
-.goail{
-    height: 15px;
-    width: 15px;
+.expfirst .goal, .expsecond .goal{
+    height: 14px;
+    width: 14px;
     border: 3px solid #FFBF00;
     border-radius: 50%;
     position: absolute;
-    top: 165px;
-    left: 0px;
-    z-index: 5;
+    top: 6px;
+    left: -25px;
+    background: #2a2a2a;
+    z-index: 2;
 }
 
 .line{
     position: absolute;
     width: 2px;
-    height: 285px;
+    height: 100%;
     top: 0px;
     bottom: 0px;
-    left: 5px;
+    left: 6px;
     border: 2px solid #3a3a3a;
+    
 }
 
 /* certifications*/
@@ -564,4 +568,5 @@ nav a:hover{
     top: 20px;
     align-self: start;
   }
+
 }
