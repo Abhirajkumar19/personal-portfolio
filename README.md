@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **HTML and CSS**.  
 It showcases my profile, skills, education, experience, certifications, and projects in a clean and responsive layout.
 
-🔗 **Live Demo:** https://amazon-clone-project-bay.vercel.app/
+🔗 **Live Demo:**https://personal-portfolio-mu-two-47.vercel.app/
 
 ---
 
