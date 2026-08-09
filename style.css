@@ -270,7 +270,7 @@ nav a:hover{
     margin-bottom: 10px;
 }
 
-.edfirst, .edsecond{
+.edfirst, .edsecond, .edsthird {
     margin-bottom: 25px;
     padding-left: 25px;
     position: relative;
@@ -290,7 +290,7 @@ nav a:hover{
 .liner{
     position: absolute;
     width: 2px;
-    height: 180px;
+    height: 220px;
     top: 0px;
     bottom: 0px;
     left: 6px;
